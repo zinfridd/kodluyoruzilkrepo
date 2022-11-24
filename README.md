@@ -31,6 +31,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
+https://app.patika.dev/courses/git/odev1
 
 
